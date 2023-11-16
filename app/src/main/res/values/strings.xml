@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Rinat_Kasymov_hw_3.2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_plus" />
+    <string name="btn_minus">\n</string>
+    <string name="tv_zero" />
+    <string name="next_fragment_button">\n</string>
+    <string name="resulFromFragment" />
+    <string name="plus" />
+    <string name="minus">minus</string>
+    <string name="plus1">plus</string>
+    <string name="zero">zero</string>
+    <string name="next_fragment_button1">next_fragment_button</string>
+</resources>
